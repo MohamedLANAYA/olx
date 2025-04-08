@@ -63,13 +63,6 @@ Mohamed Lanaya & Yassin Touggui
 Passionné de développement web (frontend & backend)
 GitHub : https://github.com/MohamedLANAYA |  https://github.com/Iamlucid111
 
-## Project Images
-
-### Image 1
-!(images/image1.png)
-
-### Image 2
-!(images/image2.jpg)
 
 ### Image 3
 !(images/image3.jpeg)
