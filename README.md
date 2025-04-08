@@ -47,10 +47,10 @@ npm start
 npm run build
 
 #  Docker - Build de l’image
-docker build -t olx .
+docker build -t/olx .
 
 #  Docker - Exécuter le conteneur (en local)
-docker run -p 8000:80 olx
+docker run -p 8000:80/olx
 
 # 🧹 Nettoyage Docker
 docker ps -a            # Voir les conteneurs
@@ -64,8 +64,6 @@ Passionné de développement web (frontend & backend)
 GitHub : https://github.com/MohamedLANAYA |  https://github.com/Iamlucid111
 
 
-### Image 3
-!(images/image3.jpeg)
 
 
 
