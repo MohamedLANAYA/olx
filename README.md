@@ -21,6 +21,11 @@ Il peut être utilisé comme base pour des projets fullstack avec backend Node.j
 - **Docker / Docker Hub**
 - **Nginx (serveur statique)**
 
+## Docker Hub
+
+**Lien vers l’image Docker** :  https://hub.docker.com/r/mohamedlanaya/olx
+
+
 ## 🚀 Instructions de build et d’exécution locale
 
 ### 1. Cloner le projet
@@ -29,9 +34,6 @@ Il peut être utilisé comme base pour des projets fullstack avec backend Node.j
 git clone https://github.com/MohamedLANAYA/olx
 cd olx
 
-## Docker Hub
-
-**Lien vers l’image Docker** :  https://hub.docker.com/r/mohamedlanaya/olx
 
 🛠️ Commandes utiles
 
